@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div style={{bakcground: 'red', color: 'white'}} className="App">
+    <div className="App">
       <h1 >JNA</h1>
     </div>
   );
